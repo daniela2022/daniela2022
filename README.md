@@ -1,4 +1,4 @@
-Oieee, eu sou a Daniela Pedon 👋
+Hello World, I'm Daniela Pedon!!! 👋
 
  <div>
   <a href="https://github.com/daniela2022">
